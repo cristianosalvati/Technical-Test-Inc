@@ -17,6 +17,6 @@
  * Introducing in the architecture an "Account-Payment Adaptor" as part of the Account Manager module, just in case in the future want to extend the platform with an external third part online portal, with his own account portfolio.
 
 ## Issues
- I Found some issue installing and running Docker on my laptop:
+ I Found some issues installing and running Docker on my laptop:
  * Installing last update for linux enbedded (see issue1.png)
  * the docker-compose.yml for windows not need the "trailing slashes" on volumes (see issue2.png, https://stackoverflow.com/questions/68273745/how-to-make-a-mount-shared-in-docker) 
