@@ -4,6 +4,7 @@
 
  * select project folder and build project using maven (mvn clean install)
    run jar file using "java -jar /target/payments-processor-system-0.0.1-SNAPSHOT.jar" 
+   you have to install SDK release v11
 
 ## :memo: Notes
 
